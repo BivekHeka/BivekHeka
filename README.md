@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bivekheka&label=Profile%20views&color=0e75b6&style=flat" alt="bivekheka" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bivekheka" alt="bivekheka" /></a> </p>
-
 - 🌱 I’m currently learning **everything I can**
 
 - 📫 How to reach me **bevillheka@gmail.com**
