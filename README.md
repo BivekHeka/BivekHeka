@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bibek</h1>
 <h3 align="center">A passionate frontend developer and Graphics Designer. I hail from the land of the Himalayas, where every sunrise paints a masterpiece on the world's highest canvas. 🏔️🌄 Proudly representing the tranquil beauty and rich heritage of Nepal! 🇳🇵✨</h3>
-
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/271839856-3b4607a1-1cc6-41f1-926f-892ae880e7a5.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bivekheka&label=Profile%20views&color=0e75b6&style=flat" alt="bivekheka" /> </p>
 
 - 🌱 I’m currently learning **everything I can**
@@ -9,7 +9,7 @@
 
 - 🏆 About me **Lazy to do Anything,Bore to do Nothing ✌️**
 
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/271839856-3b4607a1-1cc6-41f1-926f-892ae880e7a5.gif">
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/feed/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/feed/" height="30" width="40" /></a>
