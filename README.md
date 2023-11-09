@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bibek</h1>
-<h3 align="center">A passionate frontend developer and Graphics Designer. I hail from the land of the Himalayas, where every sunrise paints a masterpiece on the world's highest canvas. 🏔️🌄 Proudly representing the tranquil beauty and rich heritage of Nepal! 🇳🇵✨</h3>
+<h3 align="center">A guy who is passionate about Graphics Design and do some simple coding . I hail from the land of the Himalayas, where every sunrise paints a masterpiece on the world's highest canvas. 🏔️🌄 Proudly representing the tranquil beauty and rich heritage of Nepal! 🇳🇵✨</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/271839856-3b4607a1-1cc6-41f1-926f-892ae880e7a5.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bivekheka&label=Profile%20views&color=0e75b6&style=flat" alt="bivekheka" /> </p>
 
