@@ -36,12 +36,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=BivekHeka&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BivekHeka&theme=radical" alt="GitHub Streak"/>
-</p>
 
 ---
 
@@ -53,14 +47,4 @@
 
 ---
 
-## 🚀 Featured Projects
 
-| Project | Description | Link |
-|---------|-------------|------|
-| Random Password Generator | Generates strong random passwords | [Repo](https://github.com/BivekHeka/Random_password_generator) |
-| Coffee Machine OOP | Python project using OOP concepts | [Repo](https://github.com/BivekHeka/coffee_machine_func) |
-| Portfolio Website | My personal portfolio | [Repo](https://github.com/BivekHeka/Portfolio) |
-
----
-
-> “Code is like humor. When you have to explain it, it’s bad.” 😎
