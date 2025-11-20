@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bibek</h1>
 <h3 align="center">A passionate Frontend Developer & Graphics Designer</h3>
----
+
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/271839856-3b4607a1-1cc6-41f1-926f-892ae880e7a5.gif">
 
 
