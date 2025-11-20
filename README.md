@@ -42,7 +42,7 @@
 ## 🛠️ Top Languages
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BivekHeka&layout=compact&langs_count=10&theme=radical" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BivekHeka&layout=compact&langs_count=5&theme=radical" alt="Top Languages"/>
 </p>
 
 ---
