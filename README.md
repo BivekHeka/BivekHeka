@@ -1,27 +1,62 @@
-## Hi there 👋
-# 💫 About Me:
-I enjoy learning, experimenting, and constantly improving to become a better developer every day.
+# 👋 Hi, I'm Bibek
 
+### Aspiring Software Engineer
 
-## 🌐 Socials:
-[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/BivekHeka) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vivek_heka) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bevillheka@gmail.com) 
+<img align="right" alt="coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+I'm currently learning **Python**, **HTML/CSS**, and **JavaScript**. I love building small projects to improve my skills.
 
+---
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<!--
-**BivekHeka/BivekHeka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 About Me
 
-Here are some ideas to get you started:
+I'm Bibek — an aspiring software engineer passionate about writing clean code and building meaningful projects. I'm currently sharpening my skills in Python and web development while exploring modern tools and best practices. I enjoy learning, experimenting, and constantly improving to become a better developer every day.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎞️ GIF Styles
+
+### Minimal
+
+<img width="250" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjk4N3NwaG01bTVwMWJ1ZzRwbHJhbW94YWozcnJ6Y2t4bGRsYTA5YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/smzEtb6BxKXUQ/giphy.gif" />
+
+### Anime
+
+<img width="250" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2F2ZjU0cWgwMGJpazM0a2xpdDNsZ2Q5Y2R6M2RpaGk5ODg5b3BqbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2A75RyXVzzSI2bx4Gj/giphy.gif" />
+
+### Hacker Vibe
+
+<img width="250" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTBtdDVvbjlxZndpZmc3MG82N29odGh6ZGExZzh6M291aGZvdGt3ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26ufdipQqU2lhNA4g/giphy.gif" />
+
+### Aesthetic
+
+<img width="250" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWE2dHZicXhkcWN0MHJzMmdhYWFzZW1zZ2N2Zjdocmt4Zmp2eG00aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0MYt5jPR6QX5pnqM/giphy.gif" />
+
+### Coding Loop
+
+<img width="250" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGZ5aGU0MXh2NGM4OXFxdzB0cHBzY3UxczZ3dG05dHYwNTZuejRodSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" />
+
+---
+
+## 🔧 Skills
+
+* Python (Basics)
+* HTML & CSS
+* JavaScript (Learning)
+* Git & GitHub
+
+---
+
+## 📚 Currently Learning
+
+* Python OOP
+* Web Development
+* Data Structures Basics
+
+---
+
+## 📫 Contact
+
+**Email:** [your-email@example.com](mailto:your-email@example.com)
+
+---
+
+⭐ *Thanks for visiting my profile!*
