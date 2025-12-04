@@ -2,8 +2,9 @@
 
 Coding with the mindset of Messi — practicing, creating, and pushing limits every day.
 
-<img align="right" alt="" width="300" src="https://www.tumblr.com/teammessi/tagged/gifs" />
-
+<p align="center">
+  <img alt="Messi lifts World Cup 2022" width="100%" src="https://media.tenor.com/images/8fae3bfea8ce18cbf0931f817ad605c3/tenor.gif" />
+</p>
 
 ## 📫 Contact
 
