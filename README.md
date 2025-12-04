@@ -3,7 +3,7 @@
 Coding with the mindset of Messi — practicing, creating, and pushing limits every day.
 
 <p align="center">
-  <img alt="Messi lifts World Cup 2022" width="100%" src="https://media.tenor.com/images/8fae3bfea8ce18cbf0931f817ad605c3/tenor.gif" />
+  <img alt="Messi lifts World Cup 2022" width="100%" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNW14ajdoOXh2emJidm5xZWF0eTJja2ZydGV1Yzh4bHRjdGVxanRubiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WzR8zb0PN6bUmfz4DW/giphy.gif" />
 </p>
 
 ## 📫 Contact
