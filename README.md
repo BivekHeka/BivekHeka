@@ -19,9 +19,7 @@ Coding with the mindset of Messi — practicing, creating, and pushing limits ev
 <a href="https://behance.net/BivekHeka">
     <img src="https://img.shields.io/badge/Behance-BivekHeka-75AADB?style=for-the-badge&logo=behance&logoColor=00AEEF" />
 </a>
-<a href="https://github.com/BivekHeka">
-    <img src="https://img.shields.io/badge/GitHub-BivekHeka-FFFFFF?style=for-the-badge&logo=github&logoColor=181717" />
-</a>
+
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=BivekHeka&show_icons=true&locale=en&layout=compact&theme=transparent&hide_border=true"  /> -->
 </p>
   
